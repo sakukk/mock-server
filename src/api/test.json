@@ -1,0 +1,17 @@
+[
+  {
+    "path": "test",
+    "response": {
+      "data": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ],
+      "status": 1,
+      "msg": "success"
+    }
+  }
+]
